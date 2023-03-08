@@ -78,22 +78,22 @@
 
     $ aw_gg_hide_kmpr = Character(u'...', color="#666666", what_color="E2C778", what_prefix="{font=away/fnt/away_km_mes.otf}", what_suffix="{/font}")
 
-    image aw_mm_bg_v = Movie(play="away/img/eff/aw_mm_bg_v.ogv", channel="movie", size=(1920, 1080))
-    image aw_rain_road_1 = Movie(play="away/img/eff/aw_rain_road_1.ogv", channel="movie", size=(1920, 1080))
-    image aw_rain_road_2 = Movie(play="away/img/eff/aw_rain_road_2.ogv", channel="movie", size=(1920, 1080))
-    image aw_rain_road_3 = Movie(play="away/img/eff/aw_rain_road_3.ogv", channel="movie", size=(1920, 1080))
-    image aw_rain_road_4 = Movie(play="away/img/eff/aw_rain_road_4.ogv", channel="movie", size=(1920, 1080))
-    image aw_rain_road_5 = Movie(play="away/img/eff/aw_rain_road_5.ogv", channel="movie", size=(1920, 1080))
-    image aw_rain_road_6 = Movie(play="away/img/eff/aw_rain_road_6.ogv", channel="movie", size=(1920, 1080))
-    image aw_rain_road_7 = Movie(play="away/img/eff/aw_rain_road_7.ogv", channel="movie", size=(1920, 1080))
+    image aw_mm_bg_v = Movie(play="away/img/eff/aw_mm_bg_v.webm", channel="movie", size=(1920, 1080))
+    image aw_rain_road_1 = Movie(play="away/img/eff/aw_rain_road_1.webm", channel="movie", size=(1920, 1080))
+    image aw_rain_road_2 = Movie(play="away/img/eff/aw_rain_road_2.webm", channel="movie", size=(1920, 1080))
+    image aw_rain_road_3 = Movie(play="away/img/eff/aw_rain_road_3.webm", channel="movie", size=(1920, 1080))
+    image aw_rain_road_4 = Movie(play="away/img/eff/aw_rain_road_4.webm", channel="movie", size=(1920, 1080))
+    image aw_rain_road_5 = Movie(play="away/img/eff/aw_rain_road_5.webm", channel="movie", size=(1920, 1080))
+    image aw_rain_road_6 = Movie(play="away/img/eff/aw_rain_road_6.webm", channel="movie", size=(1920, 1080))
+    image aw_rain_road_7 = Movie(play="away/img/eff/aw_rain_road_7.webm", channel="movie", size=(1920, 1080))
 
-    image aw_bad_ending = Movie(play="away/img/eff/aw_bad_ending.ogv", channel="movie", size=(1920, 1080))
-    image aw_good_ending = Movie(play="away/img/eff/aw_good_ending.ogv", channel="movie", size=(1920, 1080))
-    image aw_true_ending = Movie(play="away/img/eff/aw_true_ending.ogv", channel="movie", size=(1920, 1080))
+    image aw_bad_ending = Movie(play="away/img/eff/aw_bad_ending.webm", channel="movie", size=(1920, 1080))
+    image aw_good_ending = Movie(play="away/img/eff/aw_good_ending.webm", channel="movie", size=(1920, 1080))
+    image aw_true_ending = Movie(play="away/img/eff/aw_true_ending.webm", channel="movie", size=(1920, 1080))
 
-    image aw_bad_end = Movie(play="away/img/eff/aw_bad_end.ogv", channel="movie", size=(1920, 1080))
+    image aw_bad_end = Movie(play="away/img/eff/aw_bad_end.webm", channel="movie", size=(1920, 1080))
 
-    image aw_tv_v1 = Movie(play="away/img/eff/aw_tv_v1.ogv", channel="movie", size=(850, 1250))
+    image aw_tv_v1 = Movie(play="away/img/eff/aw_tv_v1.webm", channel="movie", size=(850, 1250))
 
     #ANI
     image anim blink_down = "away/img/eff/blink_down.webp"

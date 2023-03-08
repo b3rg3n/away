@@ -1413,8 +1413,8 @@ init:
 
 
 
-    image gesundheit_logos2 = Movie(play="gesmemories/image/logo/mnd_ges_bg.ogv", channel="movie", size=(1920, 1080))
-    image gesundheit_logos = Movie(play="gesmemories/image/logo/new_logo.ogv", channel="movie", size=(1920, 1080))
+    image gesundheit_logos2 = Movie(play="gesmemories/image/logo/mnd_ges_bg.webm", channel="movie", size=(1920, 1080))
+    image gesundheit_logos = Movie(play="gesmemories/image/logo/new_logo.webm", channel="movie", size=(1920, 1080))
 
 
 
